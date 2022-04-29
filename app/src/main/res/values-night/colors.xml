@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cool_blue">#335ECD</color>
+
+    <color name="background_floor_1">#222222</color>
+    <color name="background_floor_2">#333333</color>
+    <color name="background_floor_3">#373737</color>
+
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#D8D8D8</color>
+
+    <color name="stroke">#555555</color>
+
+</resources>

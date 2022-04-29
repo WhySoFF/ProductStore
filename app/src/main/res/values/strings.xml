@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProductList</string>
+    <string name="app_name_lowercase">productlist</string>
+
+    <!--Menu-->
+    <string name="about">About</string>
+    <string name="account">Account</string>
+    <string name="search">Search</string>
+    <string name="dateails">Details</string>
+
+    <string name="about_message">Shelegovitch 951005</string>
+    <string name="no_internet_message">No internet. Loading old list</string>
+    <string name="cant_load_message">Can\'t load product list. Check your internet connection</string>
+    <string name="currency_fetching_message">Currency is still fetching</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
